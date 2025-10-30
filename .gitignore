@@ -1,0 +1,21 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot import folder
+.import/
+
+# Godot export templates
+.export/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+*.import
+*.tmp
+
+# Optional: IDE / Editor
+.vscode/
+.idea/
